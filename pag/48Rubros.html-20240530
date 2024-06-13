@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="description" content="Articulo 69 ley de transparencia (48 Rubros) de la Secretaría Ejecutiva de la Pólitica Púlica">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../assets/main.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+  <!--<link rel="shortcut icon" type="image/x-icon" href="http://cdn.hidalgo.gob.mx/logo.png">-->
+  <link rel="icon" href="http://www.upp.edu.mx/lib18/images/favicon.ico">
+	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/classnames/2.2.6/index.min.js"></script>
+	<script type="text/javascript" src="https://search.hidalgo.gob.mx/apps/global_search.js"></script>
+	<script type="text/javascript" src="http://cdn.hidalgo.gob.mx/json/comunicados.js"></script>
+  <script type="text/javascript" src="../assets/rubros.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114078563-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-114078563-1');
+  </script>
+	<title>48Rubros | Universidad Politécnica de Pachuca</title>
+</head>
+<body>
+	<script type="text/javascript">
+		window.$ = $;
+		window.classNames = classNames;
+	</script>
+	<div id="headergob" only-headers="true">
+		<configuracionbuscador>
+      <secretaria>Gobierno del Estado de Hidalgo</secretaria>
+      <dependencia>Gobierno del Estado de Hidalgo</dependencia>
+    </configuracionbuscador>
+    <secondnavbar>
+      <nombre>Universidad Politécnica de Pachuca</nombre>
+      <logo src="https://cdn.hidalgo.gob.mx/plantilla_secretarial/logos/SecretariaEjecutivaDeLaPoliticaPublicaEstatal.png">
+        <menu>
+          <item titulo="SII" url="https://sii.upp.edu.mx">
+          </item>
+          <item titulo="Oferta Educativa" url="http://www.upp.edu.mx/ofertaeducativa/">
+            <!--<url titulo="Art. 69 Ley de Transparencia (48 Rubros)">../../48Rubros.html</url>
+            <url titulo="Programa Anual de Adquisiciones">../../pag/PAAAS.html</url>
+            <url titulo="Art. 70 Ley de Transparencia">../xlsx/a70_f01_gSEPPE.xlsx</url>-->
+          </item>
+          <item titulo="Posgrado" url="http://www.upp.edu.mx/posgrado/">
+            <!--<url titulo="Audiencias Públicas">../../pag/Audiencias.html</url>-->
+          </item>
+          <item titulo="Transparencia" url="https://www.upp.edu.mx/transparencia/"></item>
+          <item titulo="Mapa del sitio" url="http://www.upp.edu.mx/main/#mapadesitio"></item>
+        </menu>
+    </secondnavbar>
+    <FAB>
+      <item class="icon-material_ruts" href="https://ruts.hidalgo.gob.mx/">Trámites y Servicios</item>
+      <item class="icon-material_fb" href="https://www.facebook.com/UPPachuca/" class="link">Facebook</item>
+      <item class="icon-material_tw" href="https://twitter.com/UPPachuca" class="link">Twitter</item>
+    </FAB>
+	</div>
+	<script type="text/javascript" src="https://cdn.hidalgo.gob.mx/json/header-links.js"></script>
+	<script type="text/javascript" src="https://cdn.hidalgo.gob.mx/json/headergob/headergob.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdn.hidalgo.gob.mx/json/headergob/headergob.css" />
+	<div class="container container-small">
+    <div class="row row-body">
+        <header class="col-12 top-title">
+          <h1 class="alinTitulo tipoLetra">Articulo 69 Ley de Transparencia (48 Rubros)</h1>
+        </header>
+
+    <div >
+
+    </div>
+
+    <!--INICIO-->
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Normatividad.html"><button class="btnTrans" type="button"><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Normatividad.png" alt="1.Normatividad" style=""> </button></a>
+        <a href="../48rubros/Normatividad.html"><h4 class="tamañoLetra">01 Normatividad</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Estructura.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Estructura.png" alt="2. Estructura" style=""> </button></a>
+        <a href="../48rubros/Estructura.html"><h4 class="tamañoLetra">02 Estructura</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Facultades.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Facultades.png" alt="3. Facultades" style=""> </button></a>
+        <a href="../48rubros/Facultades.html"><h4 class="tamañoLetra">03 Facultades </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Programas_Operativos_Anuales.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ProgramasOperativosAnuales.png" alt="4. Programas Operativos Anuales" style=""> </button></a>
+        <a href="../48rubros/Programas_Operativos_Anuales.html"><h4 class="tamañoLetra">04 Programas Operativos Anuales </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Indicadores_de_Interes.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/IndicadoresInteres.png" alt="5. Indicadores de Interés" style=""> </button></a>
+        <a href="../48rubros/Indicadores_de_Interes.html"><h4 class="tamañoLetra">05 Indicadores de Interés </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Matriz_de_Indicadores.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/MatrizIndicadores.png" alt="6. Matriz de Indicadores" style=""> </button></a>
+        <a href="../48rubros/Matriz_de_Indicadores.html"><h4 class="tamañoLetra">06 Matriz de Indicadores </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Directorio.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Directorio.png" alt="7. Directorio" style=""> </button></a>
+        <a href="../48rubros/Directorio.html"><h4 class="tamañoLetra">07 Directorio </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Sueldos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Sueldos.png" alt="8. Sueldos" style=""> </button></a>
+        <a href="../48rubros/Sueldos.html"><h4 class="tamañoLetra">08 Sueldos </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Viaticos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Viaticos.png" alt="9. Viáticos" style=""> </button></a>
+        <a href="../48rubros/Viaticos.html"><h4 class="tamañoLetra">09 Viáticos </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Plazas.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Plazas.png" alt="10. Plazas" style=""> </button></a>
+        <a href="../48rubros/Plazas.html"><h4 class="tamañoLetra">10 Plazas </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Honorarios.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Honorarios.png" alt="11. Honorarios" style=""> </button></a>
+        <a href="../48rubros/Honorarios.html"><h4 class="tamañoLetra">11 Honorarios </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Declaraciones_Publicas.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/DeclaracionesPublicas.png" alt="12. Declaraciones Públicas" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Declaraciones_Publicas.html"><h4 class="tamañoLetra">12 Declaraciones Públicas </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Datos_de_Contacto_de_la_Unidad.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/DatosContactoUnidad.png" alt="13. Datos de contacto de la Unidad" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Datos_de_Contacto_de_la_Unidad.html"><h4 class="tamañoLetra">13 Datos de Contacto de la Unidad </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="https://sep.hidalgo.gob.mx/index.php?ruta=transparencia/art-69/14-convocatorias"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Convocatorias.png" alt="14. Convocatorias" style=""> </button></a>
+        <a href="https://sep.hidalgo.gob.mx/index.php?ruta=transparencia/art-69/14-convocatorias"><h4 class="tamañoLetra">14 Convocatorias </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Programas_Sociales.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ProgramasSociales.png" alt="15. Programas Sociales" style=""> </button></a>
+        <a href="../48rubros/Programas_Sociales.html"><h4 class="tamañoLetra">15 Programas Sociales </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/16.%20Relaciones%20Laborales"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/RelacionesLaborales.png" alt="16. Relaciones Laborales" style=""> </button></a>
+        <a href="https://oficialiamayor.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/16.%20Relaciones%20Laborales"><h4 class="tamañoLetra">16 Relaciones Laborales </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Informacion_Curricular.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/InformacionCurricular.png" alt="17. Informacion Curricular" style=""> </button></a>
+        <a href="../48rubros/Informacion_Curricular.html"><h4 class="tamañoLetra">17 Informacion Curricular </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Sanciones_Administrativas.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/SancionesAdministrativas.png" alt="18. Sanciones Administrativas" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Sanciones_Administrativas.html"><h4 class="tamañoLetra">18 Sanciones Administrativas</h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Servicios.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Servicios.png" alt="19. Servicios" style=""> </button></a>
+        <a href="../48rubros/Servicios.html"><h4 class="tamañoLetra">19 Servicios </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Tramites.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Tramites.png" alt="20. Trámites" style=""> </button></a>
+        <a href="../48rubros/Tramites.html"><h4 class="tamañoLetra">20 Trámites </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Presupuesto_e_Informes_Semestrales.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/PresupuestoInformesTrimestrales.png" alt="21. Presupuesto e Informes Trimestrales" style=""> </button></a>
+        <a href="../48rubros/Presupuesto_e_Informes_Semestrales.html"><h4 class="tamañoLetra">21 Presupuesto e Informes Trimestrales</h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="http://s-finanzas.hidalgo.gob.mx/transparencia/48rubros/Deuda_Publica.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/DeudaPublica.png" alt="22. Deuda Pública" style=""> </button></a>
+        <a href="http://s-finanzas.hidalgo.gob.mx/transparencia/48rubros/Deuda_Publica.html"><h4 class="tamañoLetra">22 Deuda Pública </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Comunicacion_Social_y_Publicidad.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ComunicacionSocialPublicidad.png" alt="23. Comunicación Social y Publicidad" style=""> </button></a>
+        <a href="../48rubros/Comunicacion_Social_y_Publicidad.html"><h4 class="tamañoLetra">23 Comunicación Social y Publicidad</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Resultados_de_Auditorias.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ResultadosAuditorias.png" alt="24. Resultados de Auditorías" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Resultados_de_Auditorias.html"><h4 class="tamañoLetra">24 Resultados de Auditorías </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Dictamenes_de_Estados_Financieros.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/DictamenesFinancieros.png" alt="25. Dictámenes de Estados Financieros" style=""> </button></a>
+        <a href="../48rubros/Dictamenes_de_Estados_Financieros.html"><h4 class="tamañoLetra">25 Dictámenes de Estados Financieros </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="https://sep.hidalgo.gob.mx/index.php?ruta=transparencia/art-69/26-asignacion"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/AsignacionRecursosPublicosPersonas.png" alt="26. Asignacion de Recursos Publicos a Personas" style=""> </button></a>
+        <a href="https://sep.hidalgo.gob.mx/index.php?ruta=transparencia/art-69/26-asignacion"><h4 class="tamañoLetra">26 Asignacion de Recursos Publicos a Personas </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Concesiones.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Concesiones.png" alt="27. Concesiones" style=""> </button></a>
+        <a href="../48rubros/Concesiones.html"><h4 class="tamañoLetra">27 Concesiones</h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Licitaciones_Publicas.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/LicitacionesPublicas.png" alt="28. Licitaciones Públicas" style=""> </button></a>
+        <a href="../48rubros/Licitaciones_Publicas.html"><h4 class="tamañoLetra">28 Licitaciones Públicas</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Informes.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/Informes.png" alt="29. Informes" style=""> </button></a>
+        <a href="../48rubros/Informes.html"><h4 class="tamañoLetra">29 Informes </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Estadisticas_Generadas.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/EstadisticasGenerales.png" alt="30. Estadísticas Generadas" style=""> </button></a>
+        <a href="../48rubros/Estadisticas_Generadas.html"><h4 class="tamañoLetra">30 Estadísticas Generadas </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Informe_de_Avances_y_Documentos_Financieros.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/InformeAvancesDocumentosFinancieros.png" alt="31. Informe de Avances y Documentos Financieros" style=""> </button></a>
+        <a href="../48rubros/Informe_de_Avances_y_Documentos_Financieros.html"><h4 class="tamañoLetra">31 Informe de Avances y Documentos Financieros</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Padron_de_Proveedores_y_Contratistas.html#"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/PadronProveedoresContratistas.png" alt="32. Padrón de Proveedores y Contratistas" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Padron_de_Proveedores_y_Contratistas.html#"><h4 class="tamañoLetra">32 Padrón de Proveedores y Contratistas </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Convenios_con_Sectores_Social_y_Privados.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ConveniosSectoresSocialPrivado.png" alt="33. Convenios con Sectores Social y Privados" style=""> </button></a>
+        <a href="../48rubros/Convenios_con_Sectores_Social_y_Privados.html"><h4 class="tamañoLetra">33 Convenios con Sectores Social y Privados</h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Inventario_de_Bienes.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/InventarioBienes.png" alt="34. Inventario de Bienes" style=""> </button></a>
+        <a href="../48rubros/Inventario_de_Bienes.html"><h4 class="tamañoLetra">34 Inventario de Bienes </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Recomendaciones_y_Atencion_en_Materia_de_Derechos_Humanos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/RecomendacionesAtenciónMateriaDerechosHumanos.png" alt="35. Recomendaciones y Atención en Materia de Derechos Humanos" style=""> </button></a>
+        <a href="../48rubros/Recomendaciones_y_Atencion_en_Materia_de_Derechos_Humanos.html"><h4 class="tamañoLetra">35 Recomendaciones y Atención en Materia de Derechos Humanos </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Resoluciones_y_Laudos_de_Juicios.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ResolucionesLaudosJuicios.png" alt="36. Resoluciones y Laudos de Juicios" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Resoluciones_y_Laudos_de_Juicios.html"><h4 class="tamañoLetra">36 Resoluciones y Laudos de Juicios </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Mecanismos_de_Participacion_Ciudadana.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/MecanismosParticipacionCiudadana.png" alt="37. Mecanismos de Participación Ciudadana" style=""> </button></a>
+        <a href="../48rubros/Mecanismos_de_Participacion_Ciudadana.html"><h4 class="tamañoLetra">37 Mecanismos de Participación Ciudadana </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="https://sep.hidalgo.gob.mx/index.php?ruta=transparencia/art-69/38-programas"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ProgramasOfrecidos.png" alt="38. Programas Ofrecidos" style=""> </button></a>
+        <a href="https://sep.hidalgo.gob.mx/index.php?ruta=transparencia/art-69/38-programas"><h4 class="tamañoLetra">38 Programas Ofrecidos</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Actas_y_Resoluciones_del_Comite_de_Transparencia.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ActasResolucionesComiteTransparencia.png" alt="39. Actas y Resoluciones del Comité de Transparencia" style=""> </button></a>
+        <a href="http://s-contraloria.hidalgo.gob.mx/transparencia/48rubros/Actas_y_Resoluciones_del_Comite_de_Transparencia.html"><h4 class="tamañoLetra">39 Actas y Resoluciones del Comité de Transparencia</h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="https://s-finanzas.hidalgo.gob.mx/transparencia/48rubros/Evaluacion_y_Encuestas_a_Programas_Financiados_con_Recursos_Publicos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/EvaluacionencuestasProgramas.png" alt="40. Evaluacion y Encuestas a Programas Financiados con Recursos Públicos" style=""> </button></a>
+        <a href="https://s-finanzas.hidalgo.gob.mx/transparencia/48rubros/Evaluacion_y_Encuestas_a_Programas_Financiados_con_Recursos_Publicos.html"><h4 class="tamañoLetra">40 Evaluacion y Encuestas a Programas Financiados con Recursos Públicos </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Estudios_Pagados_con_Recursos_Publicos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/EstudiosPagadosRecursosPublicos.png" alt="41. Estudios Pagados con Recursos Públicos" style=""> </button></a>
+        <a href="../48rubros/Estudios_Pagados_con_Recursos_Publicos.html"><h4 class="tamañoLetra">41 Estudios Pagados con Recursos Públicos </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/42-Listado_de_Jubilados_y_Pensionados.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ListadoJubiladosPencionados.png" alt="42. Listado de Jubilados y Pensionados" style=""> </button></a>
+        <a href="../48rubros/42-Listado_de_Jubilados_y_Pensionados.html"><h4 class="tamañoLetra">42 Listado de Jubilados y Pensionados </h4></a>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Ingresos_Recibidos_por_Cualquier_Concepto.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/IngresosRecibidosCualquierConcepto.png" alt="43. Ingresos Recibidos por Cualquier Concepto" style=""> </button></a>
+        <a href="../48rubros/Ingresos_Recibidos_por_Cualquier_Concepto.html"><h4 class="tamañoLetra">43 Ingresos Recibidos por Cualquier Concepto</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Donaciones_Hechas_a_Terceros.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/DonacionesHechasTerceros.png" alt="44. Donaciones Hechas a Terceros" style=""> </button></a>
+        <a href="../48rubros/Donaciones_Hechas_a_Terceros.html"><h4 class="tamañoLetra">44 Donaciones Hechas a Terceros</h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans" style="background-color:rgb(247, 247, 247);">
+        <a href="../48rubros/Catalogo_Documental_y_Guia_de_Archivos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/CatalogoDocumentalGuiaArchivos.png" alt="45. Catálogo Documental y Guía de Archivos" style=""> </button></a>
+        <a href="../48rubros/Catalogo_Documental_y_Guia_de_Archivos.html"><h4 class="tamañoLetra">45 Catálogo Documental y Guía de Archivos </h4></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Actas_de_Sesiones_Opiniones_y_Recomendaciones_de_Consejos_Consultivos.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/ActasSesionesOpinionesRecomendacionesConsejosConsultivos.png" alt="46. Actas de Sesiones, Opiniones y Recomendaciones de Consejos Consultivos" style=""> </button></a>
+        <a href="../48rubros/Actas_de_Sesiones_Opiniones_y_Recomendaciones_de_Consejos_Consultivos.html"><h4 class="tamañoLetra">46 Actas de Sesiones, Opiniones y Recomendaciones de Consejos Consultivos </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="https://procuraduria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/Solicitud%20de%20Intervecion%20de%20%20Comunicaciones"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/SolicitudIntervencionComunicaciones.png" alt="47. Solicitud de Intervencion de Comunicaciones" style=""> </button></a>
+        <a href="https://procuraduria.hidalgo.gob.mx/Transparencia/Rubros/DetalleRubro/Solicitud%20de%20Intervecion%20de%20%20Comunicaciones"><h4 class="tamañoLetra">47 Solicitud de Intervencion de Comunicaciones </h4></a>
+      </div>
+      <div class="col-sm-4 contenedor paddingTrans">
+        <a href="../48rubros/Informacion_de_Utilidad_o_Relevante.html"><button class="btnTrans" type="button" ><img class="iconoTam" src="http://cdn.hidalgo.gob.mx/plantilla_secretarial/Rubros/PNG/InformacionUtilidadRelevante.png" alt="48. Informacion de Utilidad o Relevante" style=""> </button></a>
+        <a href="../48rubros/Informacion_de_Utilidad_o_Relevante.html"><h4 class="tamañoLetra">48 Informacion de Utilidad o Relevante </h4></a>
+      </div>
+    </div>
+  </div>
+
+<!--FIN-->
+
+
+      <!--LLAMADO BOTONES ORIGINALES .JS-->
+      <!--
+        <div class="rubrosMobile">
+          <div class="steps-row" id="rm">
+             <script type="text/javascript">renderRubrosMob();</script>
+          </div>
+        </div>
+        <div class="rubrosDesk row">
+          <script type="text/javascript">renderRubros();</script>
+        </div> 
+      -->
+
+
+
+        <header class="col-12 top-title">
+          <h3>Información Histórica</h3>
+          <hr class="blue small-margin">
+        </header>
+        <div class="steps-row promo-home-tramites small-top-buffer tramitesmobile">
+          <article>
+            <h3><a href="./Informacion_Historica.html">Ir a
+              Información Historica</a></h3>
+          </article>
+        </div>
+    </div>
+  </div>
+
+	<div class="container container-footer">
+    <div class="row">
+      <div class="footer">
+        <div class="col-md-4 col-sm-12">
+          <!--<img alt="logotipo Hidalgo Crece Contigo" class="logo-hidalgo" src="https://cdn.hidalgo.gob.mx/logo_hgo_2019.png">-->
+        </div>
+        <div class="col-md-4 col-sm-12">
+          <img src="http://cdn.hidalgo.gob.mx/escudo_blanco.svg" class="escudo-footer"/>
+      <p>© <script>document.write(new Date().getFullYear());</script> Gobierno del Estado de Hidalgo</p>
+        </div>
+        <div class="col-md-4 col-sm-12">
+          <p class="contacto-footer"><strong>Contacto</strong><br>Correo: upp@upp.edu.mx Tel:(771)5477510, Carretera Pachuca - Cd. Sahagún km 20 Ex-Hacienda de Santa Bárbara, CP-43830, Zempoala Hidalgo México<br>Pachuca de Soto, Hidalgo, México<br>
+            <a class="AvisoP" href="http://www.upp.edu.mx/lib20/mc/Aviso_de_Privacidad.pdf" target="_blank">Aviso de Privacidad</a><br>
+            <a style="font-size:28px; padding: 10px; color: #fff;" href="https://www.facebook.com/UPPachuca/" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a style="font-size:28px; padding: 10px; color: #fff;" href="https://twitter.com/UPPachuca" target="_blank"><i class="fab fa-twitter-square"></i></a>
+            <a style="font-size:28px; padding: 10px; color: #fff;" href="https://www.youtube.com/user/uppachuca" target="_blank"><i class="fab fa-youtube-square"></i></a>
+            <a style="font-size:28px; padding: 10px; color: #fff;" href="https://mail.google.com/a/upp.edu.mx/" target="_blank"><i class="fas fa-envelope-square"></i></a>
+  				</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
